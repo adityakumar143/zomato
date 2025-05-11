@@ -1,4 +1,4 @@
-# 🍽️ Zomato Data Analysis – Exploratory Data Analysis (EDA) using Python  
+ # 🍽️ Zomato Data Analysis – Exploratory Data Analysis (EDA) using Python  
 
 ## 📌 Project Overview  
 This project focuses on **Exploratory Data Analysis (EDA)** of Zomato restaurant data using **Python**. The goal is to uncover insights about restaurant trends, customer preferences, and pricing strategies to help businesses make data-driven decisions.  
